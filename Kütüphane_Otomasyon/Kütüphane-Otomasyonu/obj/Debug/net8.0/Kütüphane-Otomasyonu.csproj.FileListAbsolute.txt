@@ -1,0 +1,14 @@
+C:\Users\gamze\Desktop\Kütüphane_Otomasyon\Kütüphane-Otomasyonu\bin\Debug\net8.0\Kütüphane-Otomasyonu.exe
+C:\Users\gamze\Desktop\Kütüphane_Otomasyon\Kütüphane-Otomasyonu\bin\Debug\net8.0\Kütüphane-Otomasyonu.deps.json
+C:\Users\gamze\Desktop\Kütüphane_Otomasyon\Kütüphane-Otomasyonu\bin\Debug\net8.0\Kütüphane-Otomasyonu.runtimeconfig.json
+C:\Users\gamze\Desktop\Kütüphane_Otomasyon\Kütüphane-Otomasyonu\bin\Debug\net8.0\Kütüphane-Otomasyonu.dll
+C:\Users\gamze\Desktop\Kütüphane_Otomasyon\Kütüphane-Otomasyonu\bin\Debug\net8.0\Kütüphane-Otomasyonu.pdb
+C:\Users\gamze\Desktop\Kütüphane_Otomasyon\Kütüphane-Otomasyonu\obj\Debug\net8.0\Kütüphane-Otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamze\Desktop\Kütüphane_Otomasyon\Kütüphane-Otomasyonu\obj\Debug\net8.0\Kütüphane-Otomasyonu.AssemblyInfoInputs.cache
+C:\Users\gamze\Desktop\Kütüphane_Otomasyon\Kütüphane-Otomasyonu\obj\Debug\net8.0\Kütüphane-Otomasyonu.AssemblyInfo.cs
+C:\Users\gamze\Desktop\Kütüphane_Otomasyon\Kütüphane-Otomasyonu\obj\Debug\net8.0\Kütüphane-Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\gamze\Desktop\Kütüphane_Otomasyon\Kütüphane-Otomasyonu\obj\Debug\net8.0\Kütüphane-Otomasyonu.dll
+C:\Users\gamze\Desktop\Kütüphane_Otomasyon\Kütüphane-Otomasyonu\obj\Debug\net8.0\refint\Kütüphane-Otomasyonu.dll
+C:\Users\gamze\Desktop\Kütüphane_Otomasyon\Kütüphane-Otomasyonu\obj\Debug\net8.0\Kütüphane-Otomasyonu.pdb
+C:\Users\gamze\Desktop\Kütüphane_Otomasyon\Kütüphane-Otomasyonu\obj\Debug\net8.0\Kütüphane-Otomasyonu.genruntimeconfig.cache
+C:\Users\gamze\Desktop\Kütüphane_Otomasyon\Kütüphane-Otomasyonu\obj\Debug\net8.0\ref\Kütüphane-Otomasyonu.dll
